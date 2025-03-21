@@ -1,4 +1,4 @@
-<img width='100%' src='7620875690.jpg'/>
+<img width='100%' src=''/>
 <h1 align="center">Hi 👋, I'm Krishna Borude</h1>
 <h3 align="center">A passionate full-stack developer and data scientist.</h3>
 <img align='right' alt='coding' width='400px' src='https://media.licdn.com/dms/image/v2/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=VzLHMqcE50y3xqTRNMou5y2N66-JDMXvgAVx8TZYJzY'/>
