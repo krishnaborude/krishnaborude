@@ -4,7 +4,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+_generated with [Krishan Borude](https://github.com/Platane/snk)_
 
 <!-- <img width='100%' src=''/> -->
 <h1 align="center">Hi 👋, I'm Krishna Borude</h1>
