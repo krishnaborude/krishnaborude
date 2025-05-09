@@ -1,10 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
 
-_generated with [Krishan Borude](https://github.com/Platane/snk)_
 
 <!-- <img width='100%' src=''/> -->
 <h1 align="center">Hi 👋, I'm Krishna Borude</h1>
@@ -31,3 +25,11 @@ _generated with [Krishan Borude](https://github.com/Platane/snk)_
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnaborude&show_icons=true&locale=en" alt="krishnaborude" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaborude&" alt="krishnaborude" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Krishan Borude](https://github.com/Platane/snk)_
