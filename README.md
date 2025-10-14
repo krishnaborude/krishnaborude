@@ -1,28 +1,89 @@
-
-
-<!-- <img width='100%' src=''/> -->
-<h1 align="center">Hi 👋, I'm Krishna Borude</h1>
-<h3 align="center">A passionate full-stack developer and data scientist.</h3>
-<img align='right' alt='coding' width='400px' src='https://media.licdn.com/dms/image/v2/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=VzLHMqcE50y3xqTRNMou5y2N66-JDMXvgAVx8TZYJzY'/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnaborude&label=Profile%20views&color=0e75b6&style=flat" alt="krishnaborude" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/borude-krishna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="borude krishna" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/krishanborude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="krishan" height="30" width="40" /></a>
-<a href="https://www.facebook.com/borudekrishna3389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krishna borude" height="30" width="40" /></a>
-<a href="http://instagram.com/borudekrishna3389/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishna__33" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/borudekrishna9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@krishanborude06" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/krishna3333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishna55" height="30" width="40" /></a>
+<!-- 🧠 Profile Header -->
+<h1 align="center">👋 Hi, I'm Krishna Borude</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&duration=2500&pause=500&center=true&vCenter=true&width=450&lines=Python+Developer+🐍;Data+Scientist+📊;Full-Stack+Engineer+💻;AI+and+Automation+Enthusiast+🚀" width="450" alt="Typing SVG"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  Turning AI and automation ideas into real-world, intelligent solutions 🚀
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnaborude&show_icons=true&locale=en&layout=compact" alt="krishnaborude" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krishnaborude&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/krishnaborude?label=Followers&style=flat&color=brightgreen"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=krishnaborude.visitor-badge" alt="Visitors"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnaborude&show_icons=true&locale=en" alt="krishnaborude" /></p>
+<!-- Right Side Image -->
+<p align="center">
+  <img alt="Coding" width="400" src="https://camo.githubusercontent.com/c7dbb4b7d288b2ac223f8c4119527247e70acbc7fbdb243caf580d75033d4ad3/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f76322f43344531324151486866705032736c4c6f58772f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313537383739313235313037313f653d3231343734383336343726763d6265746126743d567a4c484d71634535307933787154524e4d6f753579324e36362d4a444d58766741567838545a594a7a59">
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaborude" alt="krishnaborude" /></p>
+---
+### 🤝 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/borude-krishna/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/krishanborude" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/borudekrishna3389" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="http://instagram.com/borudekrishna3389" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/borudekrishna9" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/krishna3333/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
 
+
+---
+
+### 🧠 Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,react,flask,mysql,linux,opencv,pytorch,tensorflow,sklearn,vscode,git" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnaborude&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaborude&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=krishnaborude&theme=tokyonight" alt="krishnaborude streak" />
+</p>
+
+---
+
+### 🪄 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnaborude&theme=github-compact&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Live Demo | GitHub |
+|----------|--------------|-----------|--------|
+| **Google Translate Clone** | Offline + online translator with voice recognition | [🌐 Demo](#) | [💻 Code](https://github.com/krishnaborude/translate-clone) |
+| **Phone Detection System** | AI-powered phone detection using OpenCV | [🌐 Demo](#) | [💻 Code](https://github.com/krishnaborude/phone-detection) |
+| **AI Text Assistant** | React + Flask app for AI-powered document analysis | [🌐 Demo](#) | [💻 Code](https://github.com/krishnaborude/ai-text-assistant) |
+| **Share App** | Secure file-sharing app built with React + FastAPI | [🌐 Demo](#) | [💻 Code](https://github.com/krishnaborude/share-app) |
+| **PDF Merger** | Simple Python GUI for merging multiple PDFs | [🌐 Demo](#) | [💻 Code](https://github.com/krishnaborude/pdf-merger) |
+
+---
+
+### 💬 Quote
+<p align="center">
+  <i>"Coding the future with AI, data, and innovation."</i>
+</p>
