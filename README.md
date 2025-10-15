@@ -75,7 +75,7 @@
 
 | Project | Description | Live Demo | GitHub |
 |----------|--------------|-----------|--------|
-| **Google Translate Clone** | Offline + online translator with voice recognition | [🌐 Demo](./demo.html) | [💻 Code](https://github.com/krishnaborude/translate-clone) |
+| **Google Translate Clone** | Offline + online translator with voice recognition | [🌐 Demo]([./demo.html](https://krishnaborude.github.io/krishnaborude/demo.html)) | [💻 Code](https://github.com/krishnaborude/translate-clone) |
 | **Phone Detection System** | AI-powered phone detection using OpenCV | [🌐 Demo](./demo.html) | [💻 Code](https://github.com/krishnaborude/phone-detection) |
 | **AI Text Assistant** | React + Flask app for AI-powered document analysis | [🌐 Demo](./demo.html) | [💻 Code](https://github.com/krishnaborude/ai-text-assistant) |
 | **Share App** | Secure file-sharing app built with React + FastAPI | [🌐 Demo](./demo.html) | [💻 Code](https://github.com/krishnaborude/share-app) |
