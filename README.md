@@ -75,13 +75,14 @@
 
 | Project | Description | Live Demo | GitHub |
 |----------|--------------|-----------|--------|
-| **Google Translate Clone** | Offline + online translator with voice recognition | <span title="🚫 Demo not available" style="color:gray; text-decoration:none; cursor:not-allowed;">🌐 Demo</span> | [💻 Code](https://github.com/krishnaborude/translate-clone) |
-| **Phone Detection System** | AI-powered phone detection using OpenCV | <span title="🚫 Demo not available" style="color:gray; text-decoration:none; cursor:not-allowed;">🌐 Demo</span> | [💻 Code](https://github.com/krishnaborude/phone-detection) |
-| **AI Text Assistant** | React + Flask app for AI-powered document analysis | <span title="🚫 Demo not available" style="color:gray; text-decoration:none; cursor:not-allowed;">🌐 Demo</span> | [💻 Code](https://github.com/krishnaborude/ai-text-assistant) |
-| **Share App** | Secure file-sharing app built with React + FastAPI | <span title="🚫 Demo not available" style="color:gray; text-decoration:none; cursor:not-allowed;">🌐 Demo</span> | [💻 Code](https://github.com/krishnaborude/share-app) |
-| **PDF Merger** | Simple Python GUI for merging multiple PDFs | <span title="🚫 Demo not available" style="color:gray; text-decoration:none; cursor:not-allowed;">🌐 Demo</span> | [💻 Code](https://github.com/krishnaborude/pdf-merger) |
+| **Google Translate Clone** | Offline + online translator with voice recognition | [🌐 Demo](./demo.html) | [💻 Code](https://github.com/krishnaborude/translate-clone) |
+| **Phone Detection System** | AI-powered phone detection using OpenCV | [🌐 Demo](./demo.html) | [💻 Code](https://github.com/krishnaborude/phone-detection) |
+| **AI Text Assistant** | React + Flask app for AI-powered document analysis | [🌐 Demo](./demo.html) | [💻 Code](https://github.com/krishnaborude/ai-text-assistant) |
+| **Share App** | Secure file-sharing app built with React + FastAPI | [🌐 Demo](./demo.html) | [💻 Code](https://github.com/krishnaborude/share-app) |
+| **PDF Merger** | Simple Python GUI for merging multiple PDFs | [🌐 Demo](./demo.html) | [💻 Code](https://github.com/krishnaborude/pdf-merger) |
 
 ---
+
 
 ### 💬 Quote
 <p align="center">
