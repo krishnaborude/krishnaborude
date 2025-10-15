@@ -14,14 +14,15 @@
       font-family: "Segoe UI", Arial, sans-serif;
       background-color: #f9fafb;
       color: #333;
+      text-align: center;
     }
 
     .demo-disabled {
       color: gray;
       text-decoration: none;
       cursor: not-allowed;
-      font-size: 1.2rem;
-      transition: opacity 0.2s;
+      font-size: 1.5rem;
+      transition: opacity 0.2s ease;
     }
 
     .demo-disabled:hover {
@@ -31,12 +32,28 @@
     .message {
       margin-top: 10px;
       color: #666;
-      font-size: 0.9rem;
+      font-size: 1rem;
+      max-width: 400px;
+    }
+
+    .back-link {
+      margin-top: 20px;
+      color: #0078d7;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .back-link:hover {
+      text-decoration: underline;
     }
   </style>
 </head>
 <body>
   <a href="#" class="demo-disabled" title="🚫 Demo not available">🌐 Demo</a>
-  <p class="message">This project’s live demo is not available yet. Please check back soon!</p>
+  <p class="message">
+    This project’s live demo is not available yet.<br />
+    Please check back soon — it’s coming soon! 🚀
+  </p>
+  <a href="https://github.com/krishnaborude" class="back-link">← Back to Projects</a>
 </body>
 </html>
