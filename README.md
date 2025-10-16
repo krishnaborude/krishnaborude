@@ -58,10 +58,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaborude&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=krishnaborude&theme=tokyonight" alt="krishnaborude streak" />
-</p>
-
 ---
 
 ### 🪄 Contribution Graph
@@ -71,17 +67,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Live Demo | GitHub |
-|----------|--------------|-----------|--------|
-| **Google Translate Clone** | Offline + online translator with voice recognition | [🌐 Demo]([./demo.html](https://krishnaborude.github.io/krishnaborude/demo.html)) | [💻 Code](https://github.com/krishnaborude/translate-clone) |
-| **Phone Detection System** | AI-powered phone detection using OpenCV | [🌐 Demo](./demo.html) | [💻 Code](https://github.com/krishnaborude/phone-detection) |
-| **AI Text Assistant** | React + Flask app for AI-powered document analysis | [🌐 Demo](./demo.html) | [💻 Code](https://github.com/krishnaborude/ai-text-assistant) |
-| **Share App** | Secure file-sharing app built with React + FastAPI | [🌐 Demo](./demo.html) | [💻 Code](https://github.com/krishnaborude/share-app) |
-| **PDF Merger** | Simple Python GUI for merging multiple PDFs | [🌐 Demo](./demo.html) | [💻 Code](https://github.com/krishnaborude/pdf-merger) |
-
----
 
 
 ### 💬 Quote
