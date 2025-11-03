@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krishnaborude&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/krishnaborude?label=Followers&style=flat&color=brightgreen"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=krishnaborude.visitor-badge" alt="Visitors"/>
 </p>
 
 <!-- Right Side Image -->
