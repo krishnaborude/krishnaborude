@@ -13,10 +13,6 @@
   <img src="https://img.shields.io/github/followers/krishnaborude?label=Followers&style=flat&color=brightgreen"/>
 </p>
 
-<!-- Right Side Image -->
-<p align="center">
-  <img alt="Coding" width="400" src="https://camo.githubusercontent.com/c7dbb4b7d288b2ac223f8c4119527247e70acbc7fbdb243caf580d75033d4ad3/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f76322f43344531324151486866705032736c4c6f58772f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313537383739313235313037313f653d3231343734383336343726763d6265746126743d567a4c484d71634535307933787154524e4d6f753579324e36362d4a444d58766741567838545a594a7a59">
-</p>
 
 ---
 ### 🤝 Connect with Me
@@ -47,14 +43,6 @@
 ### 🧠 Languages and Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,react,flask,mysql,linux,opencv,pytorch,tensorflow,sklearn,vscode,git" />
-</p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnaborude&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaborude&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
